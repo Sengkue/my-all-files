@@ -1,0 +1,69 @@
+
+
+FTP Username	epiz_29661269
+FTP Password    6TcEXU90qv
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21
+
+
+
+
+
+-----------------second
+FTP Username	epiz_29661395
+FTP Password
+oysUwrhzI5S
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21
+
+
+--------------------socail
+FTP Username	epiz_29661479
+FTP Password    aFrDNp03x0
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21
+
+------------------------------------------------------------------
+
+
+
+5r2kFYd(SFiPo3LQllVD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MySQL DB Name	       MySQL User Name	        MySQL Password	MySQL              Host Name	
+epiz_29661479_social	epiz_29661479   	(Your vPanel Password)	           sql111.epizy.com
+
+
+
